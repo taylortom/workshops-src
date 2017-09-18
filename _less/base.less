@@ -1,0 +1,26 @@
+@import url(imports.less);
+
+/**
+* Shortcuts
+*/
+.clearfix {
+  clear: both !important;
+}
+.hidden {
+  display: none !important;
+}
+@media @mobile {
+	.no_mobile {
+		.hidden;
+	}
+}
+@media @tablet {
+	.no_tablet {
+    .hidden;
+  }
+}
+@media @desktop {
+	.no_desktop {
+    .hidden;
+  }
+}

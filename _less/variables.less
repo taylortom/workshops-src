@@ -1,0 +1,45 @@
+/*
+* Camelcase variable naming convention:
+*    styleType-target/div/etc.-theme/extraInfo
+*    e.g. fontWeight-blogPost-night
+*/
+
+// TODO button styling
+
+/* Text styling */
+
+// default
+@fontType-default: "Khula", sans-serif;
+@fontColour-default: white;
+@fontWeight-default: 300;
+@fontSize-default: 18px;
+// night
+@fontColour-night: #D5D5D5;
+// main title
+@fontType-mainTitle: "Nixie One", sans-serif;
+@fontColour-mainTitle: @fontColour-default;
+@fontSize-mainTitle: 3.5em;
+@fontSize-mainTitle-mobile: 4em;
+
+@fontSize-headerTitle: 1.5em;
+
+// links
+@linkColour: rgb(0, 127, 194);
+
+// defaults
+@h1-size: 2.0em;
+@h2-size: 1.8em;
+@h3-size: 1.6em;
+@h4-size: 1.4em;
+@h5-size: 1.2em;
+@h-weight: 500;
+
+/* Colours */
+
+@backgroundColour-default: grey;
+
+/* Screen sizes */
+
+@mobile: ~"only screen and (max-width: 500px)";
+@tablet: ~"only screen and (min-width: 501px) and (max-width: 950px)";
+@desktop: ~"only screen and (min-width: 951px)";

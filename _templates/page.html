@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="keywords" content="Lexie Elliott's personal website, Brighton, UK">
+		<meta name="viewport" content="width=device-width, height=device-height initial-scale=1">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<link rel="shortcut icon" type="image/png" href="/favicon.png"/>
+
+		<title>{{{title.text}}} | Textiles at The Stable House</title>
+
+		<link rel="stylesheet" type='text/css' href="/css/theme.css" />
+
+		<script type="text/javascript" src="/js/libs/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="/js/main.js"></script>
+
+		<!--<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-21100007-1', 'auto');
+			ga('send', 'pageview');
+		</script>-->
+	</head>
+
+	<body data-page="{{id}}">
+
+		<div class="bg-overlay"></div>
+
+		<div class="inner">
+
+			<div id="nav_bar">
+				<div id="inner">
+					{{#each menu}}
+						<a class="button" {{#if id}}data-id="{{id}}" {{/if}}href="{{url}}"{{#if target}} target="{{target}}"{{/if}}>{{{html}}}</a>
+					{{/each}}
+				</div>
+			</div>
+			<a id="menu_button" class="button no_desktop no_tablet" href="#"><span class="icon-menu"></span></a>
+
+			<!-- main page title -->
+			<div class="sidebar title">
+				<div class="photo">
+					<img src="/assets/house.png" alt="Photo of The Stable House">
+					<img src="/assets/house-white.png" alt="Photo of The Stable House">
+				</div>
+				<div class="text">
+					<span class="wide no_tablet no_mobile"><span class="highlight">Textiles</span><br/>@ The Stable House</span>
+					<span class="narrow no_desktop"><span class="highlight">Textiles</span><br/>@ The Stable House</span>
+				</div>
+				<div class="job-title">
+				</div>
+				<!-- <div class="status"></div> -->
+   		</div>
+
+			<!-- page title and description -->
+			{{#if title.show}}
+			<div class="header">
+				<div class="title">
+					{{{title.text}}}.
+				</div>
+				{{#if description.show}}
+					<div class="page_blurb">
+						{{{description.text}}}
+					</div>
+				{{/if}}
+			</div>
+			{{/if}}
+
+			<!-- links sidebar -->
+			{{#if links}}
+				<div class="sidebar links">
+					<h5>Navigation:</h5>
+					{{#each links}}
+						<a class="link button" href="{{this}}">{{@key}}</a>
+					{{/each}}
+	   		</div>
+			{{/if}}
+
+			<!-- main content -->
+			<div class="page">
+				<div class="content">
+					<!-- dynamically replaced -->
+					[PAGE_CONTENT]
+				</div>
+			</div>
+
+			<!-- 'return to top' button -->
+			<a class="back_up button hidden" href="#"><span class="icon-arrow-up"></span> UP</a>
+
+			<div id="footer" class="clearfix">
+				<div class="inner">&copy; <span class="year"></span>. <span class="icon-embed2"></span> with <span class="icon-heart"></span> <a href="http://tomtaylor.name" target="_blank">by Tom.</a></div>
+			</div>
+
+		</div>
+
+	</body>
+</html>

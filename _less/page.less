@@ -1,0 +1,98 @@
+html {
+	background-color: @backgroundColour-default;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	height: 100vh;
+}
+
+html {
+	// background-image: url(/assets/tweed.jpg);
+}
+
+// @media @mobile { html { background-image: url(assets/mobile.jpg); } }
+// @media @tablet { html { background-image: url(assets/tablet.jpg); } }
+// @media @desktop { html { background-image: url(assets/desktop.jpg); } }
+
+.bg-overlay {
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(0,0,0,0.3);
+	z-index: -1;
+}
+
+body {
+	color: @fontColour-default;
+	font-family: @fontType-default;
+	font-weight: @fontWeight-default;
+	font-size: @fontSize-default;
+	line-height: 1.4;
+	> .inner {
+		position: relative;
+		z-index: 10;
+	}
+}
+
+.page {
+	width: 88%;
+	margin: 0 auto;
+	padding: 30px 0 30px 0;
+	.content {
+		.status {
+			margin: 0 auto;
+			margin-bottom: 7%;
+			padding: 15px;
+		  font-style: italic;
+			line-height: 1.7;
+		  background-color: rgba(0,0,0,0.1);
+		  border-radius: 3px;
+		}
+		.body {
+			padding-bottom: 30px;
+			width: 98%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		.media {
+			border: 5px solid white;
+
+		}
+	}
+}
+
+.paperscript {
+	position: fixed;
+	top: 0;
+	height: 100%;
+	z-index: 1;
+}
+
+@media @tablet {
+	body {
+		min-width: 501px;
+	}
+
+	.page {
+		margin: auto;
+		width: 83%;
+	}
+}
+
+@media @tablet, @desktop {
+	.page {
+		padding: 40px 0 40px 0;
+	}
+}
+
+/* Desktop */
+@media @desktop {
+	body {
+		min-width: 951px;
+	}
+	.page {
+		width: 55%;
+		margin-left: 8%;
+	}
+}

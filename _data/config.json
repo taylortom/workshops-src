@@ -1,0 +1,55 @@
+{
+  "globals": {
+    "assetsDir": "/assets"
+  },
+  "menu": [
+    {
+      "id": "home",
+      "html": "Home",
+      "url": "/",
+      "target": "_self"
+    },
+    {
+      "id": "workshops",
+      "html": "Workshops",
+      "url": "/workshops",
+      "target": "_self"
+    },
+    {
+      "id": "about",
+      "html": "About Us",
+      "url": "/about",
+      "target": "_self"
+    }
+  ],
+  "theme": {
+    "main": "base.less",
+    "options": {
+      "compress": true
+    }
+  },
+  "pages": {
+    "home": {
+      "title": {
+        "text": "Home",
+        "show": false
+      },
+      "subDir": false
+    },
+    "workshops": {
+      "title": {
+        "text": "Workshops",
+        "show": true
+      },
+      "subDir": true
+    },
+    "about": {
+      "title": {
+        "text": "About",
+        "show": true
+      },
+      "subDir": true
+    }
+  },
+  "version": "0.0.1"
+}
