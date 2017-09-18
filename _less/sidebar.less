@@ -41,17 +41,21 @@
       }
 
       .text {
-      	line-height: 0.9;
+      	line-height: 1;
       	margin: 0 auto;
       	text-align: center;
       	text-shadow: 1px 1px 0.5px rgba(0,0,0,0.3);
       	font-family: @fontType-mainTitle;
       	// font-size: @fontSize-mainTitle;
+      	font-size: 150%;
       	background-color: transparent;
 
         .highlight {
           font-size: @fontSize-mainTitle;
           color: #55d804;
+        }
+        .fade {
+          opacity: 0.3;
         }
 
 				@media @desktop {
