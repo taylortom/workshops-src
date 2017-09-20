@@ -1,5 +1,9 @@
-The Stable House is situated in picturesque countryside in the village of Great Dalby near Melton Mowbray, Leicestershire.
+Workshops are organised by Liz Taylor who has over 35 years experience living and working with textiles. During this time, Liz has run her own textile surface design & print business and has taught art, design, textiles and fashion to students of all ages.
 
-Workshops are organised by Liz Taylor who has many years experience running her own textiles business and teaching design, textiles and fashion. Our workshops offer the opportunity to try a range of textile techniques in a friendly and relaxed environment, so come and enjoy a session of creative textiles in a pleasant country setting! 
+Liz believes the important thing for all students is to build confidence using different techniques and media and through this nurture real enjoyment through creating. Our aim is therefore to provide workshops which offer the opportunity to try a range of textile techniques in a friendly and relaxed environment.
 
-Simply email us if you would like to sign up for one of our workshops and we will keep you informed about forthcoming events. We look forward to meeting you soon -
+So come and join us and if you have any ideas for classes you would like to take part in, please let us know using the contact information below.
+
+email - eatoneuk@gmail.com
+
+Phone 07920280924
