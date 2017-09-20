@@ -33,13 +33,11 @@ A donation will be made to the Haig fund annual poppy appeal organised by the Br
 
 ### Introduction to Batik 10am - 4pm - £45
 
-A brief introduction to the history and origins of this ancient and widely practiced dye resist technique. 
-
-Experiment with different methods then create your own fabric. 
+A brief introduction to the history and origins of this ancient and widely practiced dye resist technique then a chance to experiment with different methods before creating your own fabric. 
 
 Guidance will be given on how to hand embellish your cloth before creating a set of unique cards or picture . 
 
-Materials and equipment will be supplied and the class will run from 10am until 4pm with the aim of completing a Batik covered journal by the end of the session.
+Materials and equipment will be supplied and the class will run from 10am until 4pm.
 
 ![Batik Journals](http://workshops.tomtaylor.name/assets/batik.png)
 
@@ -47,7 +45,7 @@ Materials and equipment will be supplied and the class will run from 10am until 
 - Tie-dye
 - Appliqué
 - Patchwork
-- Fabric manipulation techniques Shibori
+- Fabric manipulation techniques 
 - Sewing for beginners Hand embroidery Knitting
 - Crochet
 - Make a
