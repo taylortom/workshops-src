@@ -5,7 +5,7 @@ Sign up to our email list for regular info about forthcoming workshops -
 
 ### Adiré Eleko Cloth 10am - 4pm - £45
 
-Investigate the traditional ethnic dye resist technique of Adiré Eleko. 
+Investigate the traditional ethnic dye resist technique of Adiré Eleko which originates from Western Nigeria. 
 
 Enjoy a short history of its origins and guidance on how to create your own fabric. You will then add hand embellishment to your cloth before creating a set of unique cards or picture . 
 
