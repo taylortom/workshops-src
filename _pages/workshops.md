@@ -10,8 +10,8 @@ Email or call us to sign up to our email list for regular info about forthcoming
 eatoneuk@gmail.com
 07920280924
 
-### Adiré Eleko Cloth 10am - 4pm - £45
-## Classes on - Thursday 9th November 2017, Thursday 30th November 2017
+## Adiré Eleko Cloth 10am - 4pm - £45
+### Classes on - Thursday 9th November 2017, Thursday 30th November 2017
 
 Investigate the traditional ethnic dye resist technique of Adiré Eleko which originates from Western Nigeria. 
 
@@ -22,8 +22,8 @@ Materials and equipment will be supplied (picture frames if required will be ext
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal1.jpg)
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal2.jpg)
 
-### Tie-Dye Cushion Cover 10am - 4pm - £45
-## Classes on - Thursday 23rd November 2017, Thursday 18th January 2018
+## Tie-Dye Cushion Cover 10am - 4pm - £45
+### Classes on - Thursday 23rd November 2017, Thursday 18th January 2018
 
 Learn about the well known dye resist technique of tie-dye. Enjoy a short history of its origins and guidance on how to create your own fabric. You will then learn to construct a cushion cover using your tie-dye fabric. 
 
@@ -31,8 +31,8 @@ Materials and equipment will be supplied and the class will run from 10am until 
 
 ![Tie-dye cushion](http://textilesatthestablehouse.co.uk/assets/tie-dye.png)
 
-### Poppy Corsage Workshop 10.00am - 2.00 pm - £30
-## Classes on - Thursday 2nd November 2017
+## Poppy Corsage Workshop 10.00am - 2.00 pm - £30
+### Classes on - Thursday 2nd November 2017
 
 Create an attractive poppy or flower corsage using straight forward hand sewing and embellishment skills. 
 
@@ -43,8 +43,8 @@ For all poppies made a donation will be given to the Haig fund annual poppy appe
 ![Poppy corsage](http://textilesatthestablehouse.co.uk/assets/Poppy1.jpg)
 ![Poppy corsage](http://textilesatthestablehouse.co.uk/assets/Poppy2.jpg)
 
-### Introduction to Batik 10am - 4pm - £45
-## Classes on - Thursday 16th November
+## Introduction to Batik 10am - 4pm - £45
+### Classes on - Thursday 16th November
 
 A brief introduction to the history and origins of this ancient and widely practiced dye resist technique then a chance to experiment with different methods before creating your own fabric. 
 
@@ -54,8 +54,8 @@ Materials and equipment will be supplied and the class will run from 10am until 
 
 ![Batik Journals](http://textilesatthestablehouse.co.uk/assets/batik.png)
 
-### Denim Revival Adiré Eleko  10am - 4pm - £45
-## Classes on - Thursday 9th November 2017, Thursday 30th November 2017
+## Denim Revival Adiré Eleko  10am - 4pm - £45
+### Classes on - Thursday 9th November 2017, Thursday 30th November 2017
 
 Investigate the traditional ethnic dye resist technique of Adiré Eleko which originates from Western Nigeria. 
 
@@ -63,15 +63,15 @@ Enjoy a short history of its origins and guidance on how to create your own fabr
 
 Materials and equipment will be supplied (picture frames if required will be extra) and the class will run from 10am until 4pm with the aim of completing Adiré cloth and cards or a picture by the end of the session. 
 
-### Denim Revival Adiré Eleko  10am - 4pm - £45
-## Classes on - Thursday 9th November 2017, Thursday 30th November 2017
+## Denim Revival Adiré Eleko  10am - 4pm - £45
+### Classes on - Thursday 9th November 2017, Thursday 30th November 2017
 
 Investigate the traditional ethnic dye resist technique of Adiré Eleko which originates from Western Nigeria. 
 
 Enjoy a short history of its origins and guidance on how to create your own fabric. Then learn how to hand embellish your cloth before creating a set of unique cards or a picture . 
 
 Materials and equipment will be supplied (picture frames if required will be extra) and the class will run from 10am until 4pm with the aim of completing Adiré cloth and cards or a picture by the end of the session. 
-### Future classes
+## Future classes
 - Appliqué
 - Patchwork
 - Fabric manipulation techniques 
