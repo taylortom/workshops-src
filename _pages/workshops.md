@@ -21,11 +21,12 @@ Materials and equipment will be supplied (picture frames if required will be ext
 
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal1.jpg)
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal2.jpg)
+![Adire Wedding Journal.jpg](http://textilesatthestablehouse.co.uk/assets/AdireWeddingJournal.jpg)
 
 ## Tie-Dye Cushion Cover 10am - 4pm - £45
 ### Classes on - Thursday 23rd November 2017, Thursday 18th January 2018
 
-Learn about the well known dye resist technique of tie-dye. Enjoy a short history of its origins and guidance on how to create your own fabric. You will then learn to construct a cushion cover using your tie-dye fabric. 
+Learn about the well known dye resist technique of tie-dye. Enjoy a short history of its origins and guidance on how to create your own fabric. You will then scan and digitally print your design before learning to construct a cushion cover using your tie-dye fabric. 
 
 Materials and equipment will be supplied and the class will run from 10am until 4pm with the aim of completing a cushion cover by the end of the session. Cushions not supplied so you may wish to bring a cushion you have at home.
 
@@ -54,23 +55,13 @@ Materials and equipment will be supplied and the class will run from 10am until 
 
 ![Batik Journals](http://textilesatthestablehouse.co.uk/assets/Journalvisuals.jpg)
 
-## Denim Revival Adiré Eleko  10am - 4pm - £45
-### Classes on - Thursday 9th November 2017, Thursday 30th November 2017
+## Denim Revival Using Adiré Eleko - 2 Weeks 10am - 3pm - £75
+### Classes on - Thursday 4th January, Thursday 11th january
 
-Investigate the traditional ethnic dye resist technique of Adiré Eleko which originates from Western Nigeria. 
+During the first session, investigate ways to re-design your old denim product (jeans, skirt, dress etc) to create a bag or skirt. You will then learn about the traditional ethnic dye resist technique of Adiré Eleko which originates from Western Nigeria. Enjoy a short history of its origins and guidance on how to create a design for your own fabric. This will be digitally printed in preparation for week 2 when you will construct your new bag or skirt from the original deconstructed garment.
 
-Enjoy a short history of its origins and guidance on how to create your own fabric. Then learn how to hand embellish your cloth before creating a set of unique cards or a picture . 
+Materials and equipment will be supplied (you will need to bring your own denim product) and both classes will run from 10am until 3pm with the aim of completing a new denim product by the end of the 2nd session. 
 
-Materials and equipment will be supplied (picture frames if required will be extra) and the class will run from 10am until 4pm with the aim of completing Adiré cloth and cards or a picture by the end of the session. 
-
-## Denim Revival Adiré Eleko  10am - 4pm - £45
-### Classes on - Thursday 9th November 2017, Thursday 30th November 2017
-
-Investigate the traditional ethnic dye resist technique of Adiré Eleko which originates from Western Nigeria. 
-
-Enjoy a short history of its origins and guidance on how to create your own fabric. Then learn how to hand embellish your cloth before creating a set of unique cards or a picture . 
-
-Materials and equipment will be supplied (picture frames if required will be extra) and the class will run from 10am until 4pm with the aim of completing Adiré cloth and cards or a picture by the end of the session. 
 ## Future classes
 - Appliqué
 - Patchwork
