@@ -61,4 +61,5 @@ Materials and equipment will be supplied and the class will run from 10am until 
 - Design & print a Tshirt
 - Design & print a bag
 
-![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/misc.png)
+![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal1.jpg)
+![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal2.jpg)
