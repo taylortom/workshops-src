@@ -1,5 +1,7 @@
 Our workshops offer the opportunity to try a range of textile techniques including surface decoration and embellishment through to the skills required to design and construct textile products & clothing. Class size and duration is planned appropriately according to the project being run and small groups up to 8 people can be accommodated. 
 
+If you cannot make our scheduled workshop dates please ask and we will provide alternatives.
+
 Workshops can also be tailored to individual requirements so if you have an idea for something you would like to make,or a special occasion to celebrate, drop us an email or call for an informal chat. 
 
 We also have gift vouchers available for an original more unusual gift of a textile workshop. Please ask for details.
@@ -19,8 +21,7 @@ Enjoy a short history of its origins and guidance on how to create your own fabr
 
 Materials and equipment will be supplied (picture frames if required will be extra) and the class will run from 10am until 4pm with the aim of completing Adiré cloth and cards or a picture by the end of the session. 
 
-![Adiré Snowflake](http://textilesatthestablehouse.co.uk/assets/AdireSnowflake.jpg)
-![Adiré Tree 1](http://textilesatthestablehouse.co.uk/assets/AdireTree1.jpg)
+![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal1.jpg)
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal2.jpg)
 ![Adire Wedding Journal.jpg](http://textilesatthestablehouse.co.uk/assets/AdireWeddingJournal.jpg)
 
@@ -55,8 +56,6 @@ Guidance will be given on how to hand embellish your cloth before creating a set
 Materials and equipment will be supplied and the class will run from 10am until 4pm.
 
 ![Batik Journals](http://textilesatthestablehouse.co.uk/assets/Journalvisuals.jpg)
-![Wisteria](http://textilesatthestablehouse.co.uk/assets/Wisteria.jpg)
-
 
 ## Denim Revival Using Adiré Eleko - 2 Weeks 10am - 3pm - £75
 ### Classes on - Thursday 4th January, Thursday 11th january
@@ -64,7 +63,6 @@ Materials and equipment will be supplied and the class will run from 10am until 
 During the first session, investigate ways to re-design your old denim product (jeans, skirt, dress etc) to create a bag or skirt. You will then learn about the traditional ethnic dye resist technique of Adiré Eleko which originates from Western Nigeria. Enjoy a short history of its origins and guidance on how to create a design for your own fabric. This will be digitally printed in preparation for week 2 when you will construct your new bag or skirt from the original deconstructed garment.
 
 Materials and equipment will be supplied (you will need to bring your own denim product) and both classes will run from 10am until 3pm with the aim of completing a new denim product by the end of the 2nd session. 
-![Adire Bag](http://textilesatthestablehouse.co.uk/assets/AdireBag.jpg)
 
 ## Future classes
 - Appliqué
