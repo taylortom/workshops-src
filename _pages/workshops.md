@@ -19,7 +19,8 @@ Enjoy a short history of its origins and guidance on how to create your own fabr
 
 Materials and equipment will be supplied (picture frames if required will be extra) and the class will run from 10am until 4pm with the aim of completing Adiré cloth and cards or a picture by the end of the session. 
 
-![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal1.jpg)
+![Adiré Snowflake](http://textilesatthestablehouse.co.uk/assets/AdireSnowflake.jpg)
+![Adiré Tree 1](http://textilesatthestablehouse.co.uk/assets/AdireTree1.jpg)
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal2.jpg)
 ![Adire Wedding Journal.jpg](http://textilesatthestablehouse.co.uk/assets/AdireWeddingJournal.jpg)
 
