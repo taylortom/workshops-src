@@ -1,16 +1,17 @@
-Our workshops offer the opportunity to try a range of textile techniques including surface decoration and embellishment through to the skills required to design and construct textile products & clothing. Class size and duration is planned appropriately, according to the project being run and small groups up to 8 people can be accommodated. 
+Our workshops offer the opportunity to try a range of textile techniques including surface decoration and embellishment through to the skills required to design and construct textile products & clothing. Class size and duration is planned appropriately according to the project being run and small groups up to 8 people can be accommodated. 
 
 Workshops can also be tailored to individual requirements so if you have an idea for something you would like to make,or a special occasion to celebrate, drop us an email or call for an informal chat. 
 
 We also have gift vouchers available for an original more unusual gift of a textile workshop. Please ask for details.
 
-So come and enjoy a session of creative textiles in a relaxing country setting, refreshments are included with all our workshops and lunch is available by request.
+So come and enjoy a session of creative textiles in a relaxing country setting, refreshments are included with all our workshops. Full day classes will have a midday break so please bring a packed lunch. 
 
 Email or call us to sign up to our email list for regular info about forthcoming workshops at -
 eatoneuk@gmail.com
 07920280924
 
 ### Adiré Eleko Cloth 10am - 4pm - £45
+Running - Thursday 9th November 2017, Thursday 30th November 2017
 
 Investigate the traditional ethnic dye resist technique of Adiré Eleko which originates from Western Nigeria. 
 
