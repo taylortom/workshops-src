@@ -18,7 +18,7 @@ Enjoy a short history of its origins and guidance on how to create your own fabr
 
 Materials and equipment will be supplied (picture frames if required will be extra) and the class will run from 10am until 4pm with the aim of completing Adiré cloth and cards or a picture by the end of the session. 
 
-![Adiré Eleko Journal](http://workshops.tomtaylor.name/assets/adire.png)
+![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/adire.png)
 
 ### Tie-Dye Cushion Cover 10am - 4pm - £45
 
@@ -26,7 +26,7 @@ Learn about the well known dye resist technique of tie-dye. Enjoy a short histor
 
 Materials and equipment will be supplied and the class will run from 10am until 4pm with the aim of completing a cushion cover by the end of the session. Cushions not supplied so you may wish to bring a cushion you have at home.
 
-![Tie-dye cushion](http://workshops.tomtaylor.name/assets/tie-dye.png)
+![Tie-dye cushion](http://textilesatthestablehouse.co.uk/assets/tie-dye.png)
 
 ### Poppy Corsage Workshop 10.00am - 2.00 am - £30
 
@@ -36,7 +36,7 @@ Materials and equipment will be supplied and the class will run from 10.00am to 
 
 A donation will be made to the Haig fund annual poppy appeal organised by the British Legion.
 
-![Poppy corsage](http://workshops.tomtaylor.name/assets/corsage.png)
+![Poppy corsage](http://textilesatthestablehouse.co.uk/assets/corsage.png)
 
 ### Introduction to Batik 10am - 4pm - £45
 
@@ -46,7 +46,7 @@ Guidance will be given on how to hand embellish your cloth before creating a set
 
 Materials and equipment will be supplied and the class will run from 10am until 4pm.
 
-![Batik Journals](http://workshops.tomtaylor.name/assets/batik.png)
+![Batik Journals](http://textilesatthestablehouse.co.uk/assets/batik.png)
 
 ### Future classes
 - Appliqué
@@ -59,4 +59,4 @@ Materials and equipment will be supplied and the class will run from 10am until 
 - Design & print a Tshirt
 - Design & print a bag
 
-![Adiré Eleko Journal](http://workshops.tomtaylor.name/assets/misc.png)
+![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/misc.png)
