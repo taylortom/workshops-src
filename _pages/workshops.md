@@ -55,7 +55,7 @@ Guidance will be given on how to hand embellish your cloth before creating a set
 
 Materials and equipment will be supplied and the class will run from 10am until 4pm.
 
-![Batik Journals](http://textilesatthestablehouse.co.uk/assets/Journalvisuals.jpg)
+![Wisteria](http://textilesatthestablehouse.co.uk/assets/Wisteria.jpg)
 
 ## Denim Revival Using Adiré Eleko - 2 Weeks 10am - 3pm - £75
 ### Classes on - Thursday 4th January, Thursday 11th january
