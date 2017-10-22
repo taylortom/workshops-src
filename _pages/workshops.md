@@ -57,6 +57,7 @@ Materials and equipment will be supplied and the class will run from 10am until 
 
 ![Wisteria](http://textilesatthestablehouse.co.uk/assets/Wisteria.jpg)
 ![Batik Journal](http://textilesatthestablehouse.co.uk/assets/BatikJournal.jpg)
+![Batik WS](http://textilesatthestablehouse.co.uk/assets/BatikWS.jpg)
 
 ## Denim Revival Using Adiré Eleko - 2 Weeks 10am - 3pm - £75
 ### Classes on - Thursday 4th January, Thursday 11th january
