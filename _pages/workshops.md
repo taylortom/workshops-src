@@ -64,7 +64,7 @@ During the first session, investigate ways to re-design your old denim product (
 
 Materials and equipment will be supplied (you will need to bring your own denim product) and both classes will run from 10am until 3pm with the aim of completing a new denim product by the end of the 2nd session. 
 
-![Batik Journals](http://textilesatthestablehouse.co.uk/assets/Journalvisuals.jpg)
+![Adire Bag](http://textilesatthestablehouse.co.uk/assets/AdireBag.jpg)
 
 ## Future classes
 - Appliqué
