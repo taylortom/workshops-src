@@ -23,7 +23,6 @@ Materials and equipment will be supplied (picture frames if required will be ext
 
 ![Adire Snowflake](http://textilesatthestablehouse.co.uk/assets/AdireSnowflake.jpg)
 ![Adire Tree1](http://textilesatthestablehouse.co.uk/assets/AdireTree1.jpg)
-![Xmas Adire2 ](http://textilesatthestablehouse.co.uk/assets/XmasAdire2.jpg)
 ![Xmas Adire4 ](http://textilesatthestablehouse.co.uk/assets/XmasAdire4.jpg)
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal1.jpg)
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal2.jpg)
