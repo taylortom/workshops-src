@@ -8,9 +8,8 @@ We also have gift vouchers available for an original more unusual gift of a text
 
 So come and enjoy a session of creative textiles in a relaxing country setting, refreshments are included with all our workshops. Full day classes will have a midday break so please bring a packed lunch. 
 
-Email or call us to sign up to our email list for regular info about forthcoming workshops at -
+Email to sign up to our email list for regular info about forthcoming workshops at -
 eatoneuk@gmail.com
-07920280924
 
 ## Adiré Eleko Cloth 10am - 4pm - £45
 ### Classes on - Thursday 9th November 2017, Thursday 30th November 2017
