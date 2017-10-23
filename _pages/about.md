@@ -6,5 +6,4 @@ So come and join us and if you have any ideas for classes you would like to take
 
 email - eatoneuk@gmail.com
 
-Phone 07920280924
 
