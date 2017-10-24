@@ -1,6 +1,6 @@
 Our workshops offer the opportunity to try a range of textile techniques including surface decoration and embellishment through to the skills required to design and construct textile products & clothing. Class size and duration is planned appropriately according to the project being run and small groups up to 8 people can be accommodated. 
 
-If you cannot make our scheduled workshop dates please ask and we will provide alternatives.
+If you cannot make our scheduled workshop dates please ask and we will do our utmost to provide alternatives.
 
 Workshops can also be tailored to individual requirements so if you have an idea for something you would like to make,or a special occasion to celebrate, drop us an email or call for an informal chat. 
 
