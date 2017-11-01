@@ -16,9 +16,9 @@
       "target": "_self"
     },
     {
-      "id": "about",
-      "html": "About Us",
-      "url": "/about",
+      "id": "contact",
+      "html": "Get In Touch",
+      "url": "/contact",
       "target": "_self"
     }
   ],
@@ -41,12 +41,111 @@
         "text": "Workshops",
         "show": true
       },
+      "description": {
+        "text": "Come and enjoy a session of creative textiles in a relaxing country setting!",
+        "show": true
+      },
+      "subDir": true,
+      "links": {
+        "Adiré Eleko Cloth": "/adire",
+        "Tie-Dye Cushion Cover": "/tie-dye",
+        "Poppy Corsage": "/corsage",
+        "Introduction to Batik": "/batik",
+        "Denim Revival Using Adiré Eleko": "/denim-revival",
+        "Future Classes": "/future-workshops"
+      }
+    },
+    "adire": {
+      "title": {
+        "text": "Adiré Eleko Cloth",
+        "show": true
+      },
+      "description": {
+        "text": "Runs 10am-4pm, £45<br><span style='font-style:italic;'>Next classes on: Thursday 9th Nov 2017, Thursday 30th Nov 2017</span>",
+        "show": true
+      },
+      "links": {
+        "Back to Workshops": "/workshops"
+      },
       "subDir": true
     },
-    "about": {
+    "batik": {
       "title": {
-        "text": "About",
+        "text": "Introduction to Batik",
         "show": true
+      },
+      "description": {
+        "text": "Runs 10am-4pm, £45<br><span style='font-style:italic;'>Next classes on: Thursday 16th Nov 2017</span>",
+        "show": true
+      },
+      "links": {
+        "Back to Workshops": "/workshops"
+      },
+      "subDir": true
+    },
+    "corsage": {
+      "title": {
+        "text": "Poppy Corsage Workshop",
+        "show": true
+      },
+      "description": {
+        "text": "Runs 10am-2pm, £30<br><span style='font-style:italic;'>Next classes on: Thursday 2nd Nov 2017</span>",
+        "show": true
+      },
+      "links": {
+        "Back to Workshops": "/workshops"
+      },
+      "subDir": true
+    },
+    "denim-revival": {
+      "title": {
+        "text": "Denim Revival Using Adiré Eleko",
+        "show": true
+      },
+      "description": {
+        "text": "Runs for 2 Weeks, 10am-3pm, £75<br><span style='font-style:italic;'>Next classes on: Thursday 4th Jan 2018, Thursday 11th Jan 2018</span>",
+        "show": true
+      },
+      "links": {
+        "Back to Workshops": "/workshops"
+      },
+      "subDir": true
+    },
+    "tie-dye": {
+      "title": {
+        "text": "Tie-Dye Cushion Cover",
+        "show": true
+      },
+      "description": {
+        "text": "Runs 10am-4pm, £45<br><span style='font-style:italic;'>Next classes on: Thursday 23rd Nov 2017, Thursday 18th Jan 2018</span>",
+        "show": true
+      },
+      "subDir": true
+    },
+    "future-workshops": {
+      "title": {
+        "text": "Future Workshops",
+        "show": true
+      },
+      "links": {
+        "Back to Workshops": "/workshops"
+      },
+      "subDir": true
+    },
+    "contact": {
+      "title": {
+        "text": "Get In Touch",
+        "show": true
+      },
+      "subDir": true
+    },
+    "mailing-list": {
+      "title": {
+        "text": "Mailing List",
+        "show": true
+      },
+      "description": {
+        "text": "Sign Up To Our Mailing List"
       },
       "subDir": true
     }
