@@ -12,6 +12,7 @@ Fill in your details below to sign up for our mailing list.
   form #mc-embedded-subscribe.button {
     margin-top: 25px;
     background: rgba(255,255,255,0.2);
+    border-radius: 3px;
     font-size: inherit;
     font-family: inherit;
     padding: 5px 15px;
