@@ -120,6 +120,9 @@
         "text": "Runs 10am-4pm, £45<br><span style='font-style:italic;'>Next classes on: Thursday 23rd Nov 2017, Thursday 18th Jan 2018</span>",
         "show": true
       },
+      "links": {
+        "Back to Workshops": "/workshops"
+      },
       "subDir": true
     },
     "future-workshops": {
