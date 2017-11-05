@@ -1,3 +1,7 @@
+Don't worry if none of our current workshops appeal to you, we have a host of others focussed on different textile techniques planned for the future.
+
+For more information on these, [contact us](/contact).
+
 - Appliqué
 - Patchwork
 - Fabric manipulation techniques
