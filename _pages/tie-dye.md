@@ -2,6 +2,6 @@ Learn about the well-known dye resist technique of tie-dye. Enjoy a short histor
 
 Materials and equipment will be supplied, and the class will run from 10am until 4pm with the aim of completing a cushion cover by the end of the session.
 
-_Cushions not supplied so you may wish to bring a cushion you have at home_.
+**[Sign up here](/contact)  to our mailing list for details and regular updates about all workshops.**
 
 ![Tie-dye cushion](http://textilesatthestablehouse.co.uk/assets/tie-dye.png)
