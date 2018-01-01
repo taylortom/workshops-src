@@ -1,8 +1,9 @@
-A brief introduction to the history and origins of this ancient and widely practiced dye resist technique then a chance to experiment with different methods before creating your own fabric. 
+Introduction to Batik 
+Classes start from £22.50 per person
+A brief introduction to the history and origins of this ancient and widely practiced dye resist technique.  Experiment with different methods of decorating your cloth. then add hand embellishment before creating a unique outcome depending on the class selected.
+Materials and equipment will be supplied and classes will run according to the chosen outcome, with the aim of completing cloth and product by the end of the session.
 
-Guidance will be given on how to hand embellish your cloth before creating a set of unique cards or picture.
-
-Materials and equipment will be supplied and the class will run from 10am until 4pm.
+Sign up to our mailing list for details and regular updates about all workshops.
 
 ![Wisteria](http://textilesatthestablehouse.co.uk/assets/Wisteria.jpg)
 ![Batik Journal](http://textilesatthestablehouse.co.uk/assets/BatikJournal.jpg)
