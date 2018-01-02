@@ -1,4 +1,4 @@
-***Adiré Eleko Cloth***
+**Adiré Eleko Cloth***
 
 **Classes start from £22.50 per person for a 3 hour session.**
 
