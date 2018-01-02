@@ -1,6 +1,6 @@
 **Sewing for Beginners**
 
-Classes start from £22.50 per person.
+Classes start from £22.50 per person for a 3 hour session.
 
 Learn all the necessary basics to begin sewing and making by hand and machine. 
 
