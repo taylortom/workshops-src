@@ -11,3 +11,7 @@ Materials and equipment will be supplied and classes will run according to the c
 ![Mola 2](http://textilesatthestablehouse.co.uk/assets/Mola2.jpg)
 ![Mola 3](http://textilesatthestablehouse.co.uk/assets/Mola3.jpg)
 ![Mola 4 1](http://textilesatthestablehouse.co.uk/assets/Mola41.jpg)
+![Mola Pig](http://textilesatthestablehouse.co.uk/assets/MolaPig.jpg)
+![Mola Stripe 2](http://textilesatthestablehouse.co.uk/assets/MolaStripe2.jpg)
+![Mola Toucans 1](http://textilesatthestablehouse.co.uk/assets/MolaToucans1.jpg)
+![Mola House](http://textilesatthestablehouse.co.uk/assets/MolaHouse.jpg)
