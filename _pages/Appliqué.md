@@ -7,5 +7,5 @@ Materials and equipment will be supplied and classes will run according to the c
 
 **[Sign up here](/contact)  to our mailing list for details and regular updates about all workshops.**
 
-![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal2.jpg)
+![Appliqué bag](http://textilesatthestablehouse.co.uk/assets/AppliquéBag.jpg)
 
