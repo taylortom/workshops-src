@@ -7,4 +7,3 @@ Materials and equipment will be supplied and classes will run according to the c
 
 **[Sign up here](/contact)  to our mailing list for details and regular updates about all workshops.**
 
-![Tie-dye cushion](http://textilesatthestablehouse.co.uk/assets/tie-dye.png)
