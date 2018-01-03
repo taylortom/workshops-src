@@ -10,3 +10,4 @@ Materials and equipment will be supplied and classes will run according to the c
 
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal1.jpg)
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal2.jpg)
+![Adiré Bag 2](http://textilesatthestablehouse.co.uk/assets/AdireBag2.jpg)
