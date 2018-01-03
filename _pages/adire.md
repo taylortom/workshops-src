@@ -7,6 +7,7 @@ Enjoy a short history of its origins and guidance on how to create your own fabr
 Materials and equipment will be supplied and classes will run according to the chosen outcome, with the aim of completing cloth and product by the end of the session.
 
 **[Sign up here](/contact) to our mailing list for details and regular updates about all workshops.**
+
 ![Adire Fabric 1](http://textilesatthestablehouse.co.uk/assets/AdireFabric1.jpg
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal1.jpg)
 ![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal2.jpg)
