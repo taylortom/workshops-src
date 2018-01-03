@@ -6,3 +6,6 @@ Learn how to decorate using the appliqué technique and hand embellish your desi
 Materials and equipment will be supplied and classes will run according to the chosen outcome, with the aim of completing a product by the end of the session.
 
 **[Sign up here](/contact)  to our mailing list for details and regular updates about all workshops.**
+
+![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal2.jpg)
+
