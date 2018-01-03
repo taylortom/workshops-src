@@ -7,3 +7,7 @@ Materials and equipment will be supplied and classes will run according to the c
 
 **[Sign up here](/contact)  to our mailing list for details and regular updates about all workshops.**
 
+![Mola 1](http://textilesatthestablehouse.co.uk/assets/Mola1.jpg)
+![Mola 2](http://textilesatthestablehouse.co.uk/assets/Mola2.jpg)
+![Mola 3](http://textilesatthestablehouse.co.uk/assets/Mola3.jpg)
+![Mola 4 1](http://textilesatthestablehouse.co.uk/assets/Mola41.jpg)
