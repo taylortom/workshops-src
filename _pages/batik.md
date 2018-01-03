@@ -7,6 +7,11 @@ Materials and equipment will be supplied and classes will run according to the c
 
 **[Sign up here](/contact)  to our mailing list for details and regular updates about all workshops.**
 
-![Wisteria](http://textilesatthestablehouse.co.uk/assets/Wisteria.jpg)
 ![Batik Journal](http://textilesatthestablehouse.co.uk/assets/BatikJournal.jpg)
-![Batik WS](http://textilesatthestablehouse.co.uk/assets/BatikWS.jpg)
+![Batik Picture 2](http://textilesatthestablehouse.co.uk/assets/BatikPicture2.jpg)
+![Batik Butterfly](http://textilesatthestablehouse.co.uk/assets/BatikButterfly.jpg)
+![Batik Cloth](http://textilesatthestablehouse.co.uk/assets/BatikCloth.jpg)
+![Batik Koi 1](http://textilesatthestablehouse.co.uk/assets/Koi1.jpg)
+![Batik Koi 2](http://textilesatthestablehouse.co.uk/assets/Koi2.jpg)
+
+
