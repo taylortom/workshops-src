@@ -7,5 +7,6 @@ Materials and equipment will be supplied and classes will run according to the c
 
 **[Sign up here](/contact) to our mailing list for details and regular updates about all workshops.**
 
-![Adiré Eleko Journal](http://textilesatthestablehouse.co.uk/assets/AdireJournal1.jpg)
+![Crochet Samples](http://textilesatthestablehouse.co.uk/assets/CrochetSamples.jpg)
+![Crochet Circles](http://textilesatthestablehouse.co.uk/assets/CrochetCircles.jpg)
 
