@@ -7,7 +7,7 @@ If you have a specific query, you can get in touch via email at:
 
 The best way to keep up-to-date with our workshops and other news is to sign up to our mailing list.
 
-We use this to send updates on our workshops (usually fortnightly), news on upcoming events, and special offers. Once signed up, you can unsubscribe at any time via a link in on of our emails.
+We use this to send updates on our workshops (usually fortnightly), news on upcoming events, and special offers. Once signed up, you can unsubscribe at any time via a link in our emails.
 
 Click the button below to subscribe:
 
