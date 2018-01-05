@@ -1,7 +1,3 @@
-**Patchwork**
-
-**Classes start from £22.50 per person for a 3 hour session.**
-
 Learn how to create a patchwork design using the Seminole patchwork technique. Hand embellish your design before creating a unique outcome depending on the class selected.
 Materials and equipment will be supplied and the class will run according to the chosen outcome, with the aim of completing a product by the end of the session.
 
