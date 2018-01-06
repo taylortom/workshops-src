@@ -1,7 +1,3 @@
-**Introduction to Batik**
-
-**Classes start from £22.50 per person for a 3 hour session.**
-
 A brief introduction to the history and origins of this ancient and widely practiced dye resist technique.  Experiment with different methods of decorating your cloth. then add hand embellishment before creating a unique outcome depending on the class selected.
 Materials and equipment will be supplied and classes will run according to the chosen outcome, with the aim of completing cloth and product by the end of the session.
 
@@ -13,5 +9,3 @@ Materials and equipment will be supplied and classes will run according to the c
 ![Batik Cloth](http://textilesatthestablehouse.co.uk/assets/BatikCloth.jpg)
 ![Batik Koi 1](http://textilesatthestablehouse.co.uk/assets/Koi1.jpg)
 ![Batik Koi 2](http://textilesatthestablehouse.co.uk/assets/Koi2.jpg)
-
-
