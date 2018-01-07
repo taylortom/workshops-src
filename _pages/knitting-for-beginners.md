@@ -1,7 +1,3 @@
-**Knitting for Beginners**
-
-**Classes start from £15.00 per person for a 2 hour session (minimum 4 people).**
-
 In this workshop you will learn about the tools equipment and techniques needed to help you begin knitting.
 
 Materials and equipment will be supplied and classes will run according to the chosen outcome.
