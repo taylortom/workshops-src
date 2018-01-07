@@ -36,105 +36,6 @@
       },
       "subDir": false
     },
-    "workshops": {
-      "title": {
-        "text": "Workshops",
-        "show": true
-      },
-      "description": {
-        "text": "Come and enjoy a session of creative textiles in a relaxing country setting!",
-        "show": true
-      },
-      "subDir": true,
-      "links": {
-        "Adiré Eleko Cloth": "/adire",
-        "Tie-Dye Cushion Cover": "/tie-dye",
-        "Poppy Corsage": "/corsage",
-        "Introduction to Batik": "/batik",
-        "Denim Revival Using Adiré Eleko": "/denim-revival",
-        "Future Classes": "/future-workshops"
-      }
-    },
-    "adire": {
-      "title": {
-        "text": "Adiré Eleko Cloth",
-        "show": true
-      },
-      "description": {
-        "text": "Runs 10am-4pm, £45<br><span style='font-style:italic;'>Next classes on: Thursday 9th Nov 2017, Thursday 30th Nov 2017</span>",
-        "show": true
-      },
-      "links": {
-        "Back to Workshops": "/workshops"
-      },
-      "subDir": true
-    },
-    "batik": {
-      "title": {
-        "text": "Introduction to Batik",
-        "show": true
-      },
-      "description": {
-        "text": "Runs 10am-4pm, £45<br><span style='font-style:italic;'>Next classes on: Thursday 16th Nov 2017</span>",
-        "show": true
-      },
-      "links": {
-        "Back to Workshops": "/workshops"
-      },
-      "subDir": true
-    },
-    "corsage": {
-      "title": {
-        "text": "Poppy Corsage Workshop",
-        "show": true
-      },
-      "description": {
-        "text": "Runs 10am-2pm, £30<br><span style='font-style:italic;'>Next classes on: Thursday 2nd Nov 2017</span>",
-        "show": true
-      },
-      "links": {
-        "Back to Workshops": "/workshops"
-      },
-      "subDir": true
-    },
-    "denim-revival": {
-      "title": {
-        "text": "Denim Revival Using Adiré Eleko",
-        "show": true
-      },
-      "description": {
-        "text": "Runs for 2 Weeks, 10am-3pm, £75<br><span style='font-style:italic;'>Next classes on: Thursday 4th Jan 2018, Thursday 11th Jan 2018</span>",
-        "show": true
-      },
-      "links": {
-        "Back to Workshops": "/workshops"
-      },
-      "subDir": true
-    },
-    "tie-dye": {
-      "title": {
-        "text": "Tie-Dye Cushion Cover",
-        "show": true
-      },
-      "description": {
-        "text": "Runs 10am-4pm, £45<br><span style='font-style:italic;'>Next classes on: Thursday 23rd Nov 2017, Thursday 18th Jan 2018</span>",
-        "show": true
-      },
-      "links": {
-        "Back to Workshops": "/workshops"
-      },
-      "subDir": true
-    },
-    "future-workshops": {
-      "title": {
-        "text": "Future Workshops",
-        "show": true
-      },
-      "links": {
-        "Back to Workshops": "/workshops"
-      },
-      "subDir": true
-    },
     "contact": {
       "title": {
         "text": "Get In Touch",
@@ -149,6 +50,199 @@
       },
       "description": {
         "text": "Sign Up To Our Mailing List"
+      },
+      "subDir": true
+    },
+    "workshops": {
+      "title": {
+        "text": "Workshops",
+        "show": true
+      },
+      "description": {
+        "text": "Come and enjoy a session of creative textiles in a relaxing country setting!",
+        "show": true
+      },
+      "subDir": true,
+      "links": {
+        "Appliqué": "/applique",
+        "Block Printing": "/block-printing",
+        "Distressed Paper Collage": "/distressed-paper",
+        "Mola": "/mola",
+        "Bag Projects": "/bag-projects",
+        "Patchwork": "/patchwork",
+        "Adiré Eleko Cloth": "/adire",
+        "Introduction to Batik": "/batik",
+        "Poppy & Flower Corsage": "/corsage",
+        "Denim Revival Using Adiré Eleko": "/denim-revival",
+        "Crochet for Beginners": "/crochet-for-beginners",
+        "Knitting for Beginners": "/knitting-for-beginners",
+        "Sewing for Beginners": "/sewing-for-beginners",
+        "Tie-dye": "/tie-dye",
+        "Felt Making": "/felt-making"
+      }
+    },
+    "applique": {
+      "title": {
+        "text": "Appliqué",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £22.50 per person for a 3 hour session.",
+        "show": true
+      },
+      "subDir": true
+    },
+    "block-printing": {
+      "title": {
+        "text": "Block Printing",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £15.00 each for a 2 hour session (minimum 4 people)",
+        "show": true
+      },
+      "subDir": true
+    },
+    "distressed-paper": {
+      "title": {
+        "text": "Distressed Paper Collage",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £22.50 per person for a 3 hour session",
+        "show": true
+      },
+      "subDir": true
+    },
+    "mola": {
+      "title": {
+        "text": "Mola",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £22.50 per person for a 3 hour class",
+        "show": true
+      },
+      "subDir": true
+    },
+    "patchwork": {
+      "title": {
+        "text": "Patchwork",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £22.50 per person for a 3 hour session.",
+        "show": true
+      },
+      "subDir": true
+    },
+    "adire": {
+      "title": {
+        "text": "Adiré Eleko Cloth",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £22.50 per person for a 3 hour session.",
+        "show": true
+      },
+      "subDir": true
+    },
+    "bag-projects": {
+      "title": {
+        "text": "Bag Projects",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £22.50 per person for a 3 hour session",
+        "show": true
+      },
+      "subDir": true
+    },
+    "batik": {
+      "title": {
+        "text": "Introduction to Batik",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £22.50 per person for a 3 hour session.",
+        "show": true
+      },
+      "subDir": true
+    },
+    "corsage": {
+      "title": {
+        "text": "Poppy & Flower Corsage",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £15.00 per person for a 2 hour session (minimum 4 people).",
+        "show": true
+      },
+      "subDir": true
+    },
+    "crochet-for-beginners": {
+      "title": {
+        "text": "Crochet for Beginners",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £15.00 per person for a 2 hour session (minimum 4 people)",
+        "show": true
+      },
+      "subDir": true
+    },
+    "denim-revival": {
+      "title": {
+        "text": "Denim Revival Using Adiré Eleko",
+        "show": true
+      },
+      "description": {
+        "text": "",
+        "show": false
+      },
+      "subDir": true
+    },
+    "felt-making": {
+      "title": {
+        "text": "Felt Making",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £22.50 per person for a 3 hour session.",
+        "show": true
+      },
+      "subDir": true
+    },
+    "knitting-for-beginners": {
+      "title": {
+        "text": "Knitting for Beginners",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £15.00 per person for a 2 hour session (minimum 4 people).",
+        "show": true
+      },
+      "subDir": true
+    },
+    "sewing-for-beginners": {
+      "title": {
+        "text": "Sewing for Beginners",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £22.50 per person for a 3 hour session.",
+        "show": true
+      },
+      "subDir": true
+    },
+    "tie-dye": {
+      "title": {
+        "text": "Tie-dye",
+        "show": true
+      },
+      "description": {
+        "text": "Classes start from £22.50 per person for a 3 hour session.",
+        "show": true
       },
       "subDir": true
     }
