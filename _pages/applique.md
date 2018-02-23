@@ -3,4 +3,5 @@ Materials and equipment will be supplied and classes will run according to the c
 
 **[Sign up here](/contact)  to our mailing list for details and regular updates about all workshops.**
 
-![Appliqué bag](http://textilesatthestablehouse.co.uk/assets/AppliquéBag.jpg)
+![Appliqué bag](http://textilesatthestablehouse.co.uk/assets/AppliqueBag.jpg)
+![Appliqué 2a](http://textilesatthestablehouse.co.uk/assets/Applique2a.jpg)

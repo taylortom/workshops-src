@@ -71,7 +71,7 @@
         "Bag Projects": "/bag-projects",
         "Patchwork": "/patchwork",
         "Adiré Eleko Cloth": "/adire",
-        "Introduction to Batik": "/batik",
+        "Batik": "/batik",
         "Poppy & Flower Corsage": "/corsage",
         "Denim Revival Using Adiré Eleko": "/denim-revival",
         "Crochet for Beginners": "/crochet-for-beginners",
@@ -160,7 +160,7 @@
     },
     "batik": {
       "title": {
-        "text": "Introduction to Batik",
+        "text": "Batik",
         "show": true
       },
       "description": {

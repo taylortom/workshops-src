@@ -6,5 +6,5 @@ Some workshops will enable you to make your own printing blocks using recycled m
 
 **[Sign up here](/contact)  to our mailing list for details and regular updates about all workshops.**
 
-![Block Printed Koi](http://textilesatthestablehouse.co.uk/assets/BlockPrintedKoi.jpg)
+![Block Printed Koi](http://textilesatthestablehouse.co.uk/assets/BlockprintedKoi.jpg)
 ![Block Printing](http://textilesatthestablehouse.co.uk/assets/BlockPrinting.jpg)
