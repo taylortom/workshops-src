@@ -54,6 +54,7 @@
         "text": "Prices",
         "show": true
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "mailing-list": {
