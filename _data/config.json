@@ -70,7 +70,7 @@
         "Batik": "/batik",
         "Block Printing": "/block-printing",
         "Crochet for Beginners": "/crochet-for-beginners",
-        "Denim Revival Using Adiré Eleko": "/denim-revival",
+        "Denim Revival": "/denim-revival",
         "Distressed Paper Collage": "/distressed-paper",
         "Felt Making": "/felt-making",
         "Knitting for Beginners": "/knitting-for-beginners",
@@ -203,7 +203,7 @@
     },
     "denim-revival": {
       "title": {
-        "text": "Denim Revival Using Adiré Eleko",
+        "text": "Denim Revival",
         "show": true
       },
       "description": {
