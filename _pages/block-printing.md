@@ -4,7 +4,5 @@ Some workshops will enable you to make your own printing blocks using recycled m
 
  All materials and equipment required will be supplied.
 
-**[Sign up here](/contact)  to our mailing list for details and regular updates about all workshops.**
-
 ![Block Printed Koi](http://textilesatthestablehouse.co.uk/assets/BlockprintedKoi.jpg)
 ![Block Printing](http://textilesatthestablehouse.co.uk/assets/BlockPrinting.jpg)
