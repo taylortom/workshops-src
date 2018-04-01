@@ -16,6 +16,12 @@
       "target": "_self"
     },
     {
+      "id": "prices",
+      "html": "Prices",
+      "url": "/prices",
+      "target": "_self"
+    },
+    {
       "id": "contact",
       "html": "Get In Touch",
       "url": "/contact",
@@ -39,6 +45,13 @@
     "contact": {
       "title": {
         "text": "Get In Touch",
+        "show": true
+      },
+      "subDir": true
+    },
+    "prices": {
+      "title": {
+        "text": "Prices",
         "show": true
       },
       "subDir": true
