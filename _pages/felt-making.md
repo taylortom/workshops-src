@@ -2,4 +2,4 @@ Learn how to create beautiful felt using dyed wool fleece. You may be able to ad
 Materials and equipment will be supplied and classes will run according to the chosen outcome, with the aim of completing felt and product by the end of the course.
 
 ![Felt Peacock 2](http://textilesatthestablehouse.co.uk/assets/FeltPeacock2.jpg)
-![Felt Waves](http://textilesatthestablehouse.co.uk/assets/FeltWaves.jpg)
+![Felt Waves](http://textilesatthestablehouse.co.uk/assets/.jpg)
