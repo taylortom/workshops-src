@@ -90,6 +90,7 @@
         "text": "Classes start from £22.50 per person for a 3 hour session.",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "block-printing": {
@@ -101,6 +102,7 @@
         "text": "Classes start from £15.00 each for a 2 hour session (minimum 4 people)",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "distressed-paper": {
@@ -112,6 +114,7 @@
         "text": "Classes start from £22.50 per person for a 3 hour session",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "mola": {
@@ -123,6 +126,7 @@
         "text": "Classes start from £22.50 per person for a 3 hour class",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "patchwork": {
@@ -134,6 +138,7 @@
         "text": "Classes start from £22.50 per person for a 3 hour session.",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "adire": {
@@ -145,6 +150,7 @@
         "text": "Classes start from £22.50 per person for a 3 hour session.",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "bag-projects": {
@@ -156,6 +162,7 @@
         "text": "Classes start from £22.50 per person for a 3 hour session",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "batik": {
@@ -167,6 +174,7 @@
         "text": "Classes start from £22.50 per person for a 3 hour session.",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "corsage": {
@@ -178,6 +186,7 @@
         "text": "Classes start from £15.00 per person for a 2 hour session (minimum 4 people).",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "crochet-for-beginners": {
@@ -189,6 +198,7 @@
         "text": "Classes start from £15.00 per person for a 2 hour session (minimum 4 people)",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "denim-revival": {
@@ -200,6 +210,7 @@
         "text": "",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "felt-making": {
@@ -211,6 +222,7 @@
         "text": "Classes start from £22.50 per person for a 3 hour session.",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "knitting-for-beginners": {
@@ -222,6 +234,7 @@
         "text": "Classes start from £15.00 per person for a 2 hour session (minimum 4 people).",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "sewing-for-beginners": {
@@ -233,6 +246,7 @@
         "text": "Classes start from £22.50 per person for a 3 hour session.",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     },
     "tie-dye": {
@@ -244,6 +258,7 @@
         "text": "Classes start from £22.50 per person for a 3 hour session.",
         "show": false
       },
+      "template": "workshop.hbs",
       "subDir": true
     }
   },
