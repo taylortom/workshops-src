@@ -12,4 +12,4 @@ If you cannot make our scheduled workshop dates, let us know, and we will do our
 
 **Why not give a loved one the gift of one of our textile workshops? We have gift vouchers available, please ask for details.**
 
-<div style="height:200px;"></div>
+<div style="height:400px;"></div>
