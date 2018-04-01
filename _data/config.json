@@ -64,21 +64,21 @@
       },
       "subDir": true,
       "links": {
-        "Appliqué": "/applique",
-        "Block Printing": "/block-printing",
-        "Distressed Paper Collage": "/distressed-paper",
-        "Mola": "/mola",
-        "Bag Projects": "/bag-projects",
-        "Patchwork": "/patchwork",
         "Adiré Eleko Cloth": "/adire",
+        "Appliqué": "/applique",
+        "Bag Projects": "/bag-projects",
         "Batik": "/batik",
-        "Poppy & Flower Corsage": "/corsage",
-        "Denim Revival Using Adiré Eleko": "/denim-revival",
+        "Block Printing": "/block-printing",
         "Crochet for Beginners": "/crochet-for-beginners",
+        "Denim Revival Using Adiré Eleko": "/denim-revival",
+        "Distressed Paper Collage": "/distressed-paper",
+        "Felt Making": "/felt-making",
         "Knitting for Beginners": "/knitting-for-beginners",
+        "Mola": "/mola",
+        "Patchwork": "/patchwork",
+        "Poppy & Flower Corsage": "/corsage",
         "Sewing for Beginners": "/sewing-for-beginners",
-        "Tie-dye": "/tie-dye",
-        "Felt Making": "/felt-making"
+        "Tie-dye": "/tie-dye"
       }
     },
     "applique": {
