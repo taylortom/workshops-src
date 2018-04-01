@@ -3,5 +3,5 @@ Materials and equipment will be supplied and classes will run according to the c
 
 ![Felt Peacock 2](http://textilesatthestablehouse.co.uk/assets/FeltPeacock2.jpg)
 ![Felt Waves](http://textilesatthestablehouse.co.uk/assets/FeltFruit3.jpg)
-![Felt Waves](http://textilesatthestablehouse.co.uk/assets/FeltFlower3.jpg)
+![Felt Waves](http://textilesatthestablehouse.co.uk/assets/FeltFlower1.jpg)
 
